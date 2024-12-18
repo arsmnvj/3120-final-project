@@ -25,3 +25,7 @@ git clone https://github.com/arsmnvj/3120-final-project
 3. Open the Jupyter notebook file MovieLens.ipynb
 
 4. Run each cell
+
+5. You're done!!
+
+Youtube video link: https://youtu.be/39yeyVF9MIM?si=jmNoEcY6GBTM2YYm
